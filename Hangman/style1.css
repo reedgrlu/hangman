@@ -1,0 +1,28 @@
+.unguessed{
+	
+	border: 1px solid black;
+	padding: 0.5em 0.5em 0.5em 0.5em;
+	background-color: lightgray;
+	
+}
+
+.guessed{
+	border: 1px solid black;
+	padding: 0.5em 0.5em 0.5em 0.5em;
+	background-color: gray;
+}
+
+img{
+	width: 576px;
+	height: 324px;
+	padding: 1em 0em 1em 0em;
+}
+
+div#progress{
+	font-size: 3em;
+}
+
+div#result{
+	font-size: 3em;
+	color: red;
+}
